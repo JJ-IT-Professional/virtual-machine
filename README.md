@@ -55,7 +55,7 @@ A Resource Group acts as a folder holding the resources you create such as Virtu
    - Copy the IP address
 
 <p align="center">
-<img src="https://i.imgur.com/y0RafHM.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/PCJ3QAr.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://imgur.com/OnwCcc6.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/PCJ3QAr.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
  
 
